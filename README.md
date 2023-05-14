@@ -1,5 +1,6 @@
 # Study vault
 Each study subject is separated into folders.
+Data link (Google drive): https://drive.google.com/drive/folders/1AdE9ek_yRUlr71rpaji1RwpWjsj5hULb?usp=share_link
 ---
 ### 1. Naive Beyes classifier
 ---
