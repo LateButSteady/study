@@ -7,7 +7,7 @@
 ### 2. Linear Regression (LinReg) from scratch
 ---
 ### 3. Neural Network (NN)
- - NN to LinReg
+ - Linear Regression and comparison with 2. LinReg from scratch
 ---
 ### 4. MNIST
  - Basic
@@ -18,4 +18,6 @@
 ### 6. AutoEncoder
 ---
 ### 7. Transfer Learning (Fine tuning)
+---
+### 8. BSRGAN super-resolution
 ---
