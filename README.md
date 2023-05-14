@@ -16,3 +16,5 @@ Each study subject is separated into folders.
 ---
 ### 6. AutoEncoder
 ---
+### 7. Transfer Learning (Fine tuning)
+---
