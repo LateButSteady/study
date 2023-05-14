@@ -12,3 +12,7 @@ Each study subject is separated into folders.
  - Basic
  - Adding features (HOG, LBP, GLCM)
 ---
+### 5. U-Net
+---
+### 6. AutoEncoder
+---
